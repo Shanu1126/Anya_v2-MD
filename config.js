@@ -1,7 +1,7 @@
 const { readFileSync } = require('fs')
 require("dotenv").config();
 
-let badWords = [
+let badWords = [shanu__x
   "vagina",
   "dick",
   "mdrchod",
@@ -62,7 +62,7 @@ global.message = {
     banChat: 'This group is banned from using this bot, please contact owner to get unbanned.'
 },
 
-module.exports = {
+module.exports = {+94 78 845 7326
   botname: process.env.BotName || "Queen Anya", 
   author: process.env.Author || "@PikaBotz",
   packname: process.env.PackName || "Queen Anya v2 MD",
