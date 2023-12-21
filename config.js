@@ -47,7 +47,7 @@ let badWords = [
   "loda",
   "gulambi"];
 
-global.message = {
+global.message = {shanu MD BOT
     success: "✅ 𝚂𝚞𝚌𝚌𝚎𝚜𝚜! 𝙾𝚙𝚛𝚊𝚝𝚒𝚘𝚗 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍.",
     admin: "*👤 A𝙳𝙼𝙸𝙽 N𝙴𝙴𝙳𝙴𝙳!*\n\n- Dear, this command is only for Admins. You have to be a admin in this group to use this command.",
     botAdmin: "*🤖 B𝙾𝚃 A𝙳𝙼𝙸𝙽 N𝙴𝙴𝙳𝙴𝙳!*\n\n- I'm not an Admin, so I can't execute this command in this group. Please make me an Admin.",
@@ -62,7 +62,7 @@ global.message = {
     banChat: 'This group is banned from using this bot, please contact owner to get unbanned.'
 },
 
-module.exports = {
+module.exports = +94 78 845 7326
   botname: process.env.BotName || "Queen Anya", 
   author: process.env.Author || "@PikaBotz",
   packname: process.env.PackName || "Queen Anya v2 MD",
